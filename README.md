@@ -1,1 +1,1 @@
-# Math-with-gestures-using-AI
+# MathWithGestures
